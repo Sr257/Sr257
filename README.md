@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Java Developer with a 
 
 ---
 
-- 👀 I’m interested in **Java, Spring Boot, Microservices, React, AWS, and DevOps**
+- 👀 I’m interested in **Java, Spring Boot, Microservices, React,Angular, AWS, and DevOps**
 - 🌱 I’m currently learning **Kotlin, Docker, and advanced cloud deployments with Kubernetes**
 - 💞️ I’m looking to collaborate on **open-source projects related to Java, backend systems, or full stack applications**
 - 📫 How to reach me: **sowjanyapedda1111@gmail.com**
